@@ -1,2 +1,2 @@
 # Javascript
-Learning java script with Hitesh.
+This is my javascript repo.
