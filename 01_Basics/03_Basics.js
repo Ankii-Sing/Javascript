@@ -20,8 +20,7 @@ let url1 = " ANK/it"
 console.log(url.replace('/','*'));
 // console.log(url.split("/"));  // this will not change the Original String.
 
-console.log(url1.trim().split("/")); 
-
+console.log(url1.trim().split("/"));
 
 
 
